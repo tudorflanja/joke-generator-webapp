@@ -1,39 +1,34 @@
-JokeAPI Web App
-This is a responsive web application that fetches and displays jokes from JokeAPI. The user can select from various joke categories and instantly get multiple jokes displayed with a smooth loading animation.
+# Joke Generator Web App
 
-🌐 Live Features
-🧠 Fetches jokes by category: Programming, Dark, Pun, Spooky, etc.
+This is a responsive web application that allows users to dynamically fetch and display random jokes from various categories using the [JokeAPI](https://v2.jokeapi.dev/) API.
 
-🎭 Supports both single-line and two-part jokes
+## 🚀 Features
 
-🔄 Loading spinner for enhanced UX
+- Choose joke categories (e.g., Programming, Dark, Pun, Spooky)
+- Displays both single and two-part jokes
+- Handles API errors with helpful messages
+- Includes a loading animation while fetching jokes
+- Shows results in a clean, scrollable layout
 
-🎨 Styled with modern CSS for clean layout and mobile responsiveness
+## 🧰 Technologies Used
 
-🧪 Handles API errors and shows user-friendly messages
+- HTML5
+- CSS3 (Grid, Responsive Design, Transitions)
+- JavaScript (Fetch API, DOM Manipulation)
 
-🧩 Technologies Used
-HTML5
+## 📂 Files
 
-CSS3 (with grid layout and transitions)
+- `index.html` – Structure of the app interface
+- `style.css` – Styling for layout, loader, and text
+- `script.js` – Fetches jokes, handles API response, and displays output
 
-Vanilla JavaScript (ES6+)
+## 📡 API Used
 
-JokeAPI v2 (via RESTful fetch requests)
+Data is fetched from:  
+[https://v2.jokeapi.dev/](https://v2.jokeapi.dev/)
 
-🚀 Getting Started
-Clone this repository and open index.html in your browser:
+## 🔧 Setup
 
-bash
-Copiază
-Editează
-git clone https://github.com/your-username/jokeapi-web-app.git
-cd jokeapi-web-app
-open index.html
-No backend required — the app runs entirely in the browser.
-
-📁 Project Structure
-.
-├── index.html      # Main HTML structure
-├── style.css       # Styling and layout
-└── script.js       # Fetch logic and interactivity
+To run locally:
+1. Clone the repo
+2. Open `index.html` in your browser
