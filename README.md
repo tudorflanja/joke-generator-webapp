@@ -26,9 +26,3 @@ This is a responsive web application that allows users to dynamically fetch and 
 
 Data is fetched from:  
 [https://v2.jokeapi.dev/](https://v2.jokeapi.dev/)
-
-## 🔧 Setup
-
-To run locally:
-1. Clone the repo
-2. Open `index.html` in your browser
