@@ -54,6 +54,23 @@ The API supports:
 
 ---
 
+## ▶️ How to Run the Project
+
+To run the Joke Generator Web App locally:
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/your-username/joke-generator-web-app.git
+   cd joke-generator-web-app
+   ```
+
+2. **Open the project**:
+   Simply open `index.html` in your preferred web browser (Chrome, Firefox, etc.).
+
+> 💡 No build tools or servers are needed — this project is fully static and runs directly in the browser.
+
+---
+
 ## 📝 Conclusion
 
 The Joke Generator Web App is a lightweight and fun project that showcases how to consume and render external APIs in a clean and interactive frontend. It serves as a great example of combining modern web technologies for practical, real-time user experiences.
